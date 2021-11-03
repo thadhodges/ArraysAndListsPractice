@@ -1,0 +1,16 @@
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\bin\Debug\net5.0\ArraysAndListsPractice.exe
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\bin\Debug\net5.0\ArraysAndListsPractice.deps.json
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\bin\Debug\net5.0\ArraysAndListsPractice.runtimeconfig.json
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\bin\Debug\net5.0\ArraysAndListsPractice.runtimeconfig.dev.json
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\bin\Debug\net5.0\ArraysAndListsPractice.dll
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\bin\Debug\net5.0\ref\ArraysAndListsPractice.dll
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\bin\Debug\net5.0\ArraysAndListsPractice.pdb
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\obj\Debug\net5.0\ArraysAndListsPractice.csproj.AssemblyReference.cache
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\obj\Debug\net5.0\ArraysAndListsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\obj\Debug\net5.0\ArraysAndListsPractice.AssemblyInfoInputs.cache
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\obj\Debug\net5.0\ArraysAndListsPractice.AssemblyInfo.cs
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\obj\Debug\net5.0\ArraysAndListsPractice.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\obj\Debug\net5.0\ArraysAndListsPractice.dll
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\obj\Debug\net5.0\ref\ArraysAndListsPractice.dll
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\obj\Debug\net5.0\ArraysAndListsPractice.pdb
+C:\WORK\REPO\ArraysAndListsPractice\ArraysAndListsPractice\obj\Debug\net5.0\ArraysAndListsPractice.genruntimeconfig.cache

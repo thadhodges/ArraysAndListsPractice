@@ -26,7 +26,7 @@ namespace ArraysAndListsPractice
             Console.WriteLine(cars[3]);
 
             //Create array with specific number of variables
-            int[] myScores = new int[4];
+            int[] myScores = new int[] { 12, 34, 23, 16, 45 };
             //myScores[3] = 3456;
             //myScores[2] = 223567;
 
@@ -50,7 +50,17 @@ namespace ArraysAndListsPractice
             ages.Add(15);
             //ages.Remove(5);
             Console.WriteLine(ages.Count);
+            Console.WriteLine(ages.GetType());
 
+            var days = new List<string>();
+            days.Add("Monday");
+            days.Add("Tuesday");
+            Console.WriteLine(days.Count);
+            Console.WriteLine(days.GetType());
+            days.Add("Wednesday");
+            Console.WriteLine(days.Count);
+            days.Clear();
+            Console.WriteLine(days.Count);
 
         }
     }
